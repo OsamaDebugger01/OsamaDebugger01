@@ -26,7 +26,6 @@
 - :school: I am a `Graduate of 2020` from the Faculty of Computer & Information Science at AinShams University.
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
 - :nerd_face: Always `learning new Technologies`.
-- :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
 <br>
 
 
